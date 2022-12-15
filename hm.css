@@ -1,0 +1,174 @@
+@font-face {
+    font-family: 'hm sans';
+    src: url(HM\ Sans\ Regular.ttf);
+}
+
+.div1-nav{
+    width: 100%;
+    color: azure;
+}
+.hi{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+    align-items: left;
+    transition: font-size 0.3s ease-in-out;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 2;
+    margin-top:3px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased; 
+    justify-content: center; 
+     position: relative; 
+    text-align: center;
+    text-decoration: none;
+     width: auto; 
+    color:greenyellow;
+}
+.hello{
+    background-color: rgb(255, 255, 255);
+    width: 35%;
+    margin-top: 31px;
+    padding: 0px;
+}
+
+a{
+    line-height: 1;
+    letter-spacing: normal;
+    font-family: 'hm sans';
+    font-weight: unset;
+    font-variant: no-historical-ligatures;
+
+     font-variant: no-historical-ligatures;
+  
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none;
+    width: auto;
+    color: #2e302b;
+
+}
+.hm{
+    background-color: rgb(255, 255, 255);
+    width: 49%;
+    margin-left: 423px;
+    padding-left: -36px;
+    margin-top: -82px;
+    height: 99px;
+}
+.hm1{
+    width: 58px;
+    outline-width: thin;
+    margin-top: -54px;
+    margin-top: 67px;
+    margin-left: 313px;
+}
+
+
+.thredot{
+    width: 20px;
+    /* margin-top: -229px; */
+    size: 10px;
+    margin-left: 6px;
+    margin-top: -68PX;
+    BACKGROUND-COLOR: rgb(255, 255, 255);
+}
+.nav1{
+    background-color: rgb(255, 255, 255);
+}
+.thre{
+    width: 10%;
+    margin-left: 353px;
+    margin-top: -34px;
+    background-color: rgb(255, 255, 255);
+}
+.profile{
+    width: 26px;
+    margin-left: 33px;
+}
+.sign{
+   
+    width: 26%;
+    margin-left: 1114px;
+    margin-top: -41px;
+}
+.p1{
+    margin-left: 67px;
+    margin-top: -27px;
+    background-color: rgb(255, 255, 255);
+    color: #2e302b;
+    width: 12%;
+}
+.like{
+    width: 26px;
+    margin-left: 0px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -6px;
+}
+.like1{
+    width: 21%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 133px;
+    margin-top: -33px;
+}
+.p2{
+    margin-left: 31px;
+    margin-top: -27px;
+    background-color: rgb(255, 255, 255);
+    color: #2e302b;
+    
+    width: 63%;
+}
+.shoppingbag{
+    margin-left: 244px;
+    margin-top: -31px;
+    background-color: rgb(255, 255, 255);
+    color: #2e302b;
+    width: 32%;
+}
+.shopping{
+    width: 26px;
+    margin-left: 0px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -6px;
+}
+.li2{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+    align-items: left;
+    transition: font-size 0.3s ease-in-out;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 2;
+    margin-top:3px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased; 
+    justify-content: center; 
+     position: relative; 
+    text-align: center;
+    text-decoration: none;
+     width: auto; 
+    color:greenyellow;
+
+}
+
+.ladies{
+    width: 195%;
+    background-color: #ffffff;
+    margin-left: -305px;
+}
+.nav2{
+    background-color: rgb(255, 255, 255);
+    width: 88%;
+    margin-left: -431px;
+    margin-top: 65px;
+    height: 31px;
+    
+}
+
+
+
+
+
+
